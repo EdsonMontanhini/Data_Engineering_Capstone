@@ -1,9 +1,8 @@
 # Data_Engineering_Capstone
-The data engineering capstone project for the coursera course
-
+## The data engineering capstone project for the coursera course :
 https://www.coursera.org/learn/data-enginering-capstone-project/home/welcome
 
-Following text taken from the introduction of the course:
+## Following text taken from the introduction of the course:
 
 In this Capstone project, you will:
 
