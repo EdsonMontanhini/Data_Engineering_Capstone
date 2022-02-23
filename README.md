@@ -5,16 +5,11 @@ https://www.coursera.org/learn/data-enginering-capstone-project/home/welcome
 ## Following text taken from the introduction of the course:
 
 In this Capstone project, you will:
-
-Collect and understand data from multiple sources.
-
-Design a database and data warehouse.
-
-Analyze the data and create a dashboard.
-
-Extract data from OLTP, NoSQL and MongoDB databases, transform it, and load it into the data warehouse.
-
-Create an ETL pipeline and deploy machine learning models. 
+* Collect and understand data from multiple sources.
+* Design a database and data warehouse.
+* Analyze the data and create a dashboard.
+* Extract data from OLTP, NoSQL and MongoDB databases, transform it, and load it into the data warehouse.
+* Create an ETL pipeline and deploy machine learning models. 
 
 This Capstone provides you with practical hands-on experience to demonstrate all of the Data Engineering skills you have picked up in this Professional Certificate program.  
 
